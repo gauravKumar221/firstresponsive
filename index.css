@@ -1,0 +1,1106 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;500;700&family=Open+Sans:wght@500;600;700;800&family=Raleway:wght@100;200;600&family=Roboto:wght@300;500&display=swap');
+  
+
+  /* font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+header {
+    position: absolute;
+    width: 100%;
+}
+.home {
+    color: gray;
+    font-size: 18px;
+    font-weight: 100;
+    /* position: relative;
+    z-index: 2; */
+}
+
+/* deeflat screen */
+.container{
+    width: 75%;
+    margin: 0 auto;
+}
+.banner{
+    background-color: #ffd741;
+}
+.nav-manue{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+.nav-manue img{
+    width: 64px;
+}
+.banner-main{
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+.smart-boy {
+    width: 40%;
+    /* padding: 20px 20px 0px; */
+    height: 572px;
+}
+.presonal {
+    width: 56%;
+    padding: 20px;
+    margin-top: 15%;
+}
+.smart-boy img {
+    width: 649px;
+    /* height: 547px; */
+   
+  
+}
+.your {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.online{
+    font-size: 48px;
+    font-family: 'Roboto', sans-serif; 
+    opacity: 0.8;
+}
+.imgfree {
+        margin: 22px auto 0 0;
+        font-size: 16px;
+        font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+a.lolpic {
+    color: black;
+    opacity: 0.9;
+    letter-spacing: 1.2px;
+    border-bottom: 1px solid;
+    line-height: 2;
+}
+/* nxt section222222222 */
+.mainflex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+h2.head {
+    text-align: center;
+    font-size: 48px;
+    margin-top: 60px;
+    font-family: 'Roboto', sans-serif;
+}
+p.head2 {
+    text-align: center;
+    margin-top: 17px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 1px;
+}
+
+.flex {
+    width: 27%;
+    text-align: center;
+    padding: 30px;
+}
+.big {
+    font-size: 15.625rem;
+    font-weight: 700;
+    margin: 0 auto;
+    color: #f9e79b;
+    font-family: 'Open Sans', sans-serif;
+    /* width: 50%; */
+}
+.small {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: -213px;
+    font-weight: lighter;
+}
+.low {
+    margin: 40px auto 70px 0;
+    line-height: 1.7;
+    font-family: 'Roboto', sans-serif;
+}
+.life-main{
+    display: flex;
+}
+#p2{
+    background-image: url(img/gray.jpg);
+}
+h1.life {
+    font-size: 48px;
+    color: #f1c50e;
+    font-family: 'Roboto', sans-serif;
+}
+h5.lived {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+img.image-class {
+    width: 709px;
+}
+.blackman {
+    width: 50%;
+}
+.good {
+    padding: 22px;
+    margin-top: 66px;
+    width: 50%;
+}
+
+.paracamando{
+font-size: 1.125rem;
+font-family: 'Open Sans', sans-serif;
+line-height: 2;
+margin: 36px auto 0 0;
+}
+.read {
+    margin-top: 36px;
+    background: #f1c50e;
+    padding: 15px 52px 15px 51px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    border-style: none;
+}
+
+
+
+.free-p{
+margin: 11px auto 0 0;
+font-size: 18px;
+/* font-weight: 600; */
+font-family:'Open Sans', sans-serif;
+}
+a.pick {
+    font-weight: 700;
+    margin-left: 5px;
+    color: black;
+}
+
+/* smilegirl */
+
+.smile-chines {
+    background-image: url(img/smilegirl.jpeg);
+    background-position: 2% 41%;
+    min-height: 519px;
+    background-size: 115%;
+}
+.smilegirl{
+
+}
+
+.smilegirl h6 {
+    font-size: 24px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 60px;
+}
+.smilegirl p {
+    font-size: 24px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+}
+.smilegirl h2 {
+    font-size: 48px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+}
+.smilegirl :last-child {
+    font-size: 16px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    /* margin: auto; */
+    width: 41%;
+    margin-top: 20px;
+    line-height: 2;
+}
+/* americansection */
+.american{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.american-headding{
+
+}
+
+.american-headding h2{
+    font-size: 48px;
+    /* color: white; */
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    
+}
+.american-headding  p{
+    font-family:'Open Sans', sans-serif;
+    font-size: 16px;
+    /* color: white; */
+    margin-top: 20px;
+    line-height: 2;
+    letter-spacing: 0.2px;
+}
+.american-headding {
+    padding: 30px;
+}
+
+
+.pikes{
+    margin: 11px auto 0 0;
+    font-size: 18px;
+    /* font-weight: 600; */
+    font-family: 'Open Sans', sans-serif;
+}
+
+.button-2{
+
+    margin-top: 36px;
+    background: #f1c50e;
+    padding: 15px 52px 15px 51px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    border-style: none;
+}
+.yelowamerican-img {
+    width: 332px;
+    height: 431px;
+    object-fit: cover;
+    padding: 30px;
+}
+/* lastsecond section */
+.brand{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.brandlogo{
+    padding: 30px;
+}
+.brandlogo img{
+    width: 116px;
+    height: 83px;
+    object-fit: contain;
+}
+
+
+.brandlast{
+    padding: 30px;
+}
+.brandlast img{
+    width: 116px;
+    height: 83px;
+    object-fit: contain;
+
+}
+.heading h2{
+    font-size: 48px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 55px;
+}
+
+.heading p{
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    
+    width: 40%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+/* last */
+.last-black{
+    background-color: black;
+}
+.main{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 60px;
+}
+.contant {
+    text-align: center;
+}
+.contant h1{
+    font-size: 200px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    color: #404040 ;
+}
+.contant h2{
+    font-size: 48px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-top: -130px;
+    color: #f1c50e;
+
+}
+h2.dont {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+p.bee {
+    font-size: 16px;
+    margin-top: 20px;
+    line-height: 1.5;
+    /* font-weight: 600; */
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    margin-bottom: 25px;
+
+}
+.fa-envelope:before {
+    content: "\f0e0";
+    font-size: 60px;
+    color:  #f1c50e;
+}
+.fa-phone:before {
+    content: "\f095";
+    font-size: 60px;
+    color: #f1c50e;
+}
+.form-bar {
+    width: 28%;
+    padding: 30px;
+}
+
+h6.mail-txt {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    width: 66%;
+    color: white;
+}
+h6.num-collom {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    width: 43%;
+    color: white;
+}
+
+.form-last-bar {
+    padding: 30px;
+}
+input[type="text"] {
+    width: 96%;
+    padding: 10px 12px;
+    /* margin-top: 20px; */
+    font-size: medium;
+    border: 2px solid white;
+    background-color: transparent;
+}
+input[type="mail"] {
+    width: 96%;
+    padding: 10px 12px;
+    margin-top: 20px;
+    font-size: medium;
+    border: 2px solid white;
+    background-color: transparent;
+}
+textarea.text-area {
+    width: 96%;
+    padding: 10px 12px;
+    height: 125px;
+    margin-top: 20px;
+    /* font-size: medium; */
+    font-size: 17px;
+    font-family: sans-serif;
+    border: 2px solid white;
+    background-color: transparent;
+}
+.submit {
+    padding: 15px 30px;
+    background: #f1c50e;
+    font-weight: 800;
+    letter-spacing: 2px;
+    border-radius: 33px;
+    border-style: none;
+    /* text-align: center; */
+}
+label {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+
+   
+}
+.div22 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 248px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* tabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb */
+
+@media screen and (max-width: 1024px) {
+    .your {
+        font-size: 20px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+    }
+    p.head2 {
+        text-align: center;
+        margin-top: 17px;
+        font-family: 'Open Sans', sans-serif;
+        letter-spacing: 0px;
+    }
+    .mainflex {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+    .container {
+        width: 85%;
+        margin: 0 auto;
+    }
+    .smart-boy img {
+        width: 385px;
+        /* height: 547px; */
+    
+    }
+    .presonal {
+        width: 50%;
+        padding: 20px;
+        margin-top: 7%;
+    }
+    .banner-main {
+        display: flex;
+        /* flex-wrap: wrap; */
+        justify-content: center;
+    }
+    .smart-boy {
+        width: 50%;
+        /* padding: 20px 20px 0px; */
+        height: 339px;
+    }
+    .home {
+        color: gray;
+        font-size: 18px;
+        font-weight: 100;
+        display: none;
+    }
+    .flex {
+        width: 40%;
+        text-align: center;
+        padding: 30px;
+    }
+    h2.head {
+        text-align: center;
+        font-size: 48px;
+        margin-top: 60px;
+        font-family: 'Roboto', sans-serif;
+        width: 90%;
+        margin: 0 auto;
+        padding-top: 60px;
+ 
+    }
+    /* blackberry */
+    .paracamando {
+        font-size: 1.125rem;
+        font-family: 'Open Sans', sans-serif;
+        line-height: 1.4;
+        margin: 36px auto 0 0;
+    }
+    /*  */
+    img.image-class {
+        max-width: 383px;
+        height: 491px;
+        object-fit: cover;
+        object-position: 5% 20%;
+    }
+    /* img.image-class {
+        width: 300px;
+        height: 267px;
+        margin-left: 50px;
+        object-fit: contain;
+        object-position: 5% 20%;
+    } */
+    .blackman {
+        /* width: 100%; */
+        max-width: 50%;
+        /* overflow-x: visible; */
+    }
+    h1.life {
+        font-size: 42px;
+        color: #f1c50e;
+        font-family: 'Roboto', sans-serif;
+    }
+    .good {
+        padding: 22px 0 22px 0;
+        margin-top: 66px;
+        width: 50%;
+    }
+    .read {
+        margin-top: 30px;
+        background: #f1c50e;
+        padding: 15px 52px 15px 51px;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
+        border-style: none;
+    }
+    .good {
+        padding: 22px 0 22px 0;
+        margin-top: 50px;
+        width: 50%;
+    }
+    h5.lived {
+        font-size: 20px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 100;
+    }
+    /* chinies girl */
+    .smilegirl :last-child {
+        font-size: 16px;
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        /* margin: auto; */
+        width: 71%;
+        margin-top: 20px;
+        line-height: 2;
+    }
+    .smile-chines {
+        background-image: url(img/smilegirl.jpeg);
+        background-position: 6% 52%;
+        min-height: 461px;
+        background-size: 152%;
+    }
+    .smilegirl p {
+        font-size: 16px;
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        margin-top: 20px;
+    }
+
+
+.smilegirl{
+    padding-top: 10px;
+}
+.yelowamerican-img {
+    width: 176px;
+    height: 441px;
+    object-fit: cover;
+    /* padding: 30px; */
+}
+.american-headding p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    /* color: white; */
+    margin-top: 20px;
+    line-height: 1.5;
+    /* letter-spacing: 0.0px; */
+}
+.american-headding {
+    padding: 40px 0px;
+}
+.brand {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+.heading p {
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 20px;
+line-height: 1.6;
+}
+/* lasrblack */
+.contant h1 {
+    font-size: 140px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    color: #404040;
+    /* width: 90%; */
+    margin: 0 auto;
+    font-weight: 700;
+}
+.contant h2 {
+    font-size: 48px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-top: -100px;
+    color: #f1c50e;
+    font-weight: 700;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+.fa-envelope:before {
+    content: "\f0e0";
+    font-size: 48px;
+    color: #f1c50e;
+}
+.fa-phone:before {
+    content: "\f095";
+    font-size: 55px;
+    color: #f1c50e;
+}
+span.mail-mo {
+    font-size: 16px;
+}
+h6.mail-txt {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    width: 66%;
+    color: white;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+   
+}
+
+
+
+/* mobileppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp */
+
+
+@media screen and (min-width:   320px) and (max-width: 767px){
+    .container {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .banner-main {
+        display: flex;
+        /* flex-wrap: nowrap; */
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+    }
+    .your {
+        font-size: 21px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+    }
+    .presonal {
+        width: 80%;
+        padding: 30px 50px 30px 10px;
+        margin-top: 25%;
+    }
+    /* .smart-boy {
+        width: 100%;
+        height: 261px;
+        margin-top: 55px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    } */
+    .smart-boy {
+        width: 100%;
+        /* padding: 20px 20px 0px; */
+        margin-top: 55px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .smart-boy img {
+        width: 100%;
+        /* height: 547px; */
+    }
+    h2.head {
+        text-align: center;
+        font-size: 36px;
+        margin-top: 60px;
+        font-family: 'Roboto', sans-serif;
+        width: 90%;
+        margin: 0 auto;
+        padding-top: 60px;
+    }
+    .flex {
+        width: 100%;
+        text-align: center;
+        padding: 20px;
+    }
+    .small {
+        font-size: 24px;
+        font-family: 'Roboto', sans-serif;
+        margin-top: -90px;
+        font-weight: lighter;
+    }
+    .big {
+        font-size: 5.625rem;
+        /* font-weight: 700; */
+        margin: 0 auto;
+        color: #f9e79b;
+        font-family: 'Open Sans', sans-serif;
+        width: 100%;
+    }
+    .low {
+        margin: 5px auto 70px 0;
+        line-height: 1.7;
+        font-family: 'Roboto', sans-serif;
+        width: 90%;
+        /* padding-top: 10px; */
+      
+        margin: 0 auto;
+    }
+    .mainflex {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 80px;
+    }
+    /*  */
+    .life-main {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        text-align: center;
+    }
+    img.image-class {
+        width: 300px;
+        height: 267px;
+        /* margin-left: 58px; */
+        object-fit: contain;
+        /* object-position: 5% 20%; */
+    }
+    .good {
+        padding: 22px 0 22px 0;
+        margin-top: 50px;
+        width: 100%;
+    }
+    
+    .paracamando {
+        font-size: 18px;
+        font-family: 'Open Sans', sans-serif;
+        line-height: 1.4;
+        margin: 36px auto 0 0;
+    }
+    h5.lived {
+        font-size: 18px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 100;
+    }
+    h1.life {
+        font-size: 36px;
+        color: #f1c50e;
+        font-family: 'Roboto', sans-serif;
+    }
+    .blackman {
+        width: 100%;
+        max-width: 100%;
+        /* overflow-x: visible; */
+    }
+
+    /* smilegirl */
+    .smilegirl :last-child {
+        font-size: 16px;
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        /* margin: auto; */
+        width: 100%;
+        margin-top: 20px;
+        line-height: 2;
+    }
+    .smilegirl {
+        width: 100%;
+        /* margin: 0 auto; */
+        text-align: center;
+    }
+    .smile-chines {
+        background-image: url(img/smilegirl.jpeg);
+        background-position: 6% 52%;
+        min-height: 461px;
+        background-size: 152%;
+        background-size: auto;
+        padding-bottom: 40px;
+    }
+    /* smile american */
+    .american-headding {
+        padding: 40px 0px;
+        text-align: center;
+    }
+    .american {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .american-headding p {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        /* color: white; */
+        margin-top: 20px;
+        line-height: 1.5;
+        /* letter-spacing: 0.0px; */
+    }
+    .american-headding h2 {
+        font-size: 36px;
+        /* color: white; */
+        font-family: 'Roboto', sans-serif;
+        margin-top: 30px;
+    }
+    .yelowamerican-img {
+        width: 176px;
+        /* height: 441px; */
+        object-fit: cover;
+        padding: 0px;
+        width: 100%;
+    }
+
+
+    /* last second */
+    .heading h2 {
+        font-size: 36px;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        margin-top: 55px;
+    }
+    .heading p {
+        font-size: 16px;
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        width: 95%;
+        margin: 0 auto;
+        padding-top: 20px;
+        line-height: 1.6;
+    }
+    .brandlogo {
+        padding: 30px;
+        margin: 0 auto;
+    }
+    
+
+.brand {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    gap: 5px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+
+.brandlast {
+    padding: 30px;
+    margin: 0 auto;
+}
+.brandlogo img {
+    width: 116px;
+    height: 83px;
+    object-fit: contain;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.brandlast img {
+    width: 116px;
+    height: 83px;
+    object-fit: contain;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* lastblack */
+
+.contant h1 {
+    font-size: 60px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    color: #404040;
+    /* width: 90%; */
+    margin: 0 auto;
+    font-weight: 700;
+    padding-top: 20px;
+}
+.contant h2 {
+    font-size: 30px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-top: -50px;
+    color: #f1c50e;
+    font-weight: 700;
+}
+
+.form-bar {
+    width: 98%;
+    padding: 30px 10px;
+}
+.main {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 60px;
+    flex-direction: column;
+    text-align: center;
+}
+h6.mail-txt {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    color: white;
+    margin-bottom: 40px;
+}
+h6.num-collom {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    color: white;
+}
+.submit {
+    padding: 15px 30px;
+    background: #f1c50e;
+    font-weight: 800;
+    letter-spacing: 2px;
+    border-radius: 33px;
+    border-style: none;
+    /* text-align: center; */
+    float: left;
+}
+.form-last-bar {
+    padding: 30px 10px;
+}
+textarea.text-area {
+    width: 90%;
+    padding: 10px 12px;
+    height: 125px;
+    margin-top: 20px;
+    /* font-size: medium; */
+    font-size: 17px;
+    font-family: sans-serif;
+    border: 2px solid white;
+    background-color: transparent;
+}
+input[type="mail"] {
+    width: 90%;
+    padding: 10px 12px;
+    margin-top: 20px;
+    font-size: medium;
+    border: 2px solid white;
+    background-color: transparent;
+}
+input[type="text"] {
+    width: 90%;
+    padding: 10px 12px;
+    /* margin-top: 20px; */
+    font-size: medium;
+    border: 2px solid white;
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+    
+
+
+/* @media screen and (min-width:   1024px) and (max-width: 1400px){
+    
+
+.flex {
+    width: 25%;
+    text-align: center;
+    padding: 30px;
+}
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
